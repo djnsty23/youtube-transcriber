@@ -21,4 +21,5 @@ Thumbs.db
 # Ignore build and distribution files
 build/
 dist/
+transcripts/
 *.egg-info/
