@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Video Transcriber
 
 This tool transcribes text from YouTube videos using the YouTube Data API and the youtube-transcript-api.
@@ -27,3 +28,4 @@ You can use the YouTube Transcriber as a command-line tool:
 ## Saving Transcripts
 
 When using the command-line tool or the `example.py` script, transcripts will be automatically saved in a `transcripts` folder within the project directory. Each transcript file will be named after the video title with invalid characters replaced by underscores.
+=======
